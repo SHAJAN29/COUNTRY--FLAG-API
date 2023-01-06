@@ -201,6 +201,16 @@ position: absolute !important;
     
     }
 
+    .card{
+
+height:30rem !important;
+
+    }
+    .card-body p{
+
+font-size: 15px;
+    }
+
     .chy p{
         margin-top: 1em;
         font-size: 12px;
