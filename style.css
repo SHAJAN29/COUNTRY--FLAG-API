@@ -24,7 +24,12 @@ font-size: xx-large;
 color: #004d7a;
 
 }
+#body1{
 
+
+
+
+}
 .container h5 svg{
 
 
@@ -136,7 +141,7 @@ position: absolute !important;
     
 
     #body1{
-        height: 100vh;
+        height: auto;
         display: flex;
         justify-content: center;
         align-items: center;

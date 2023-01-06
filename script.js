@@ -57,10 +57,7 @@ let container =document.querySelector('#container')
 
 container.innerHTML =`<div class="row">
 
-
-
-
-<div class="col-lg-4 col-sm-12">
+<div class="col-lg-4 col-sm-12 ">
 
     <div class="card " id="hello_card" style="width: 18rem; height: 30.2rem;">
         <h5 class="card-title text-center bg-dark text-white p-2">${afgan_title}</h5>
