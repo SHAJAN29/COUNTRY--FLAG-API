@@ -139,7 +139,15 @@ position: absolute !important;
 
 @media screen and (max-width:768px) {
     
-
+    .container{
+        text-align: center;
+        justify-content: center;
+        font-size: xx-large;
+        color: #004d7a;
+    }
+    .container h5 svg{
+        font-size: 25rem !important;
+        }
     #body1{
         height: auto;
         display: flex;
